@@ -12,4 +12,4 @@ Following tasks has been carried out and describe in the above said file:-
 
 ## Restrictions
 
-- `cuda` is needed to run most of the program as it is highly computation intense.
+- `cuda` is needed to run most of the code in `ipynb` file as it is highly computation intense.
